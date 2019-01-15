@@ -1,4 +1,4 @@
-# electron-mouseselect
+# e-mouse
 
 > A mouse select UI components Library with electron-vue
 
